@@ -1,0 +1,11 @@
+{
+    "vars":
+    {
+        "outputPath":"mbd",
+        "title":"Military Base Decor Wiki",
+        "sub_title":"Base Decorating Redefined!"    
+    },
+    "images":"imgs",
+    "content":"content",
+    "categories":"content/categories.json"
+}
