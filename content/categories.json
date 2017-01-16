@@ -1,0 +1,10 @@
+{
+    "categories":
+    {
+        "blocks":"categories/blocks.json",
+        "items":"categories/items.json",
+        "concrete":"categories/concrete.json",
+        "blastcraft":"categories/blastcraft.json",
+        "tools":"categories/tools.json"
+    }
+}
