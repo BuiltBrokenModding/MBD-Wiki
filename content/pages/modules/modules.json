@@ -1,0 +1,42 @@
+{
+    "pageName":"Modules",
+    "type":"category",
+    "replaceKeys":
+    {
+        "module":"module"
+    },
+    "content":
+    {
+        "p1": "Military Base Decor has content set to different eras that are spread out in different modules that can be disabled as you so choose, these are the currently available modules:",
+        "h1":
+        {  
+            "link":"vanilla.json",
+            "text":"Vanilla Module"
+        },
+        "h2":
+        {  
+            "link":"gunpowder.json",
+            "text":"Gunpowder Era Module (Civil War)"
+        },
+        "h3":
+        {  
+            "link":"worldwar1.json",
+            "text":"World War 1 Module"
+        },
+        "h4":
+        {  
+            "link":"worldwar2.json",
+            "text":"World War 2 Module"
+        },
+        "h5":
+        {  
+            "link":"coldwar.json",
+            "text":"Cold War Module"
+        },
+        "h6":
+        {
+            "link":"future.json",
+            "text":"Future Module"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "pageName":"Blast Compressor",
+    "type":"content",
+    "replaceKeys":
+    {
+        "compressor":"blast compressor"
+    },
+    "content":
+    {
+        "h1": "Blast Compressor",
+        "p1": "The Blast Compressor, is a machine that allows you to compress #link:blastBlocks# into Blast Proof Walling It requires coal to function.",
+    }
+}

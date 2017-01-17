@@ -1,0 +1,22 @@
+{
+    "pageName":"Blastcraft",
+    "type":"category",
+    "replaceKeys":
+    {
+        "blastcraft":"blastcraft"
+    },
+    "content":
+    {
+        "p1": "Blastcraft is a small module that adds content from the old mod with the same name, it adds several means of blastproofing your base and serves as another way to protect your base from ICBM missiles.",
+        "h1":
+        {  
+            "link":"bcblocks.json",
+            "text":"Blocks"
+        },
+        "h2":
+        {  
+            "link":"compressor.json",
+            "text":"Blast Compressor"
+        }
+    }
+}

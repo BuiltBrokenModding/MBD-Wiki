@@ -1,26 +1,7 @@
 {
     "categories":
     {
-        "modules":"categories/modules/modules.json",
-            "vanilla":"categories/modules/vanilla/modules.vanilla.json",
-                "blocks":"categories/modules/vanilla/modules.vanilla.blocks.json",
-                "items":"categories/modules/vanilla/modules.vanilla.items.json",
-            "gunpowder":"categories/modules/gunpowder/modules.gunpowder.json",
-                "blocks":"categories/modules/gunpowder/modules.gunpowder.blocks.json",
-                "items":"categories/modules/gunpowder/modules.gunpowder.items.json",
-            "worldwar1":"categories/modules/worldwar1/modules.worldwar1.json",
-                "blocks":"categories/modules/worldwar1/modules.worldwar1.blocks.json",
-                "items":"categories/modules/worldwar1/modules.worldwar1.items.json",
-                "tools":"categories/modules/worldwar1/modules.worldwar1.items.tools.json",
-            "worldwar2":"categories/modules/worldwar2/modules.worldwar2.json",
-                "blocks":"categories/modules/worldwar2/modules.worldwar2.blocks.json",
-                "items":"categories/modules/worldwar2/modules.wordlwar2.items.json",
-            "coldwar":"categories/modules/coldwar/modules.coldwar.json",
-                "blocks":"categories/modules/coldwar/modules.coldwar.blocks.json",
-                "items":"categories/modules/coldwar/modules.coldwar.items.json",
-            "future":"categories/modules/future/modules.future.json",
-                "blocks":"categories/modules/future/modules.future.blocks.json",
-            "blastcraft":"categories/modules/blastcraft/modules.blastcraft.json",
-                "blocks":"categories/modules/blastcraft/modules.blastcraft.blocks.json"
+        "modules":"./categories/modules.json",
+        "blastcraft":"./categories/blastcraft.json"
     }
 }

@@ -1,0 +1,29 @@
+{
+    "pageName":"Blastcraft Blocks",
+    "type":"content",
+    "replaceKeys":
+    {
+        "blastBlocks":"blastcraft blocks"
+    },
+    "content":
+    {
+        "h1": "Hardened Brick",
+        "p1": "Hardened Brick, is used to create Raw Blast Proof Walling. It is a rather weak block with the same resistance as obsidian.",
+        "p2": "It is made using obsidian and bricks in a normal crafting table",
+        
+        "h2": "Raw Blast Proof Walling",
+        "p3": "Raw Blast Proof Walling, is also rather weak, and is the final step to creating blast proof walling. It offers no improvement over hardened brick, sporting the same resistance as obsidian once again.",
+        "p4": "To craft Raw Blast Proof Walling you need Hardened Brick and Obsididan in a crafting table",
+        
+        "h3": "Blast Proof Walling",
+        "p5": "Blast Proof Walling, Is what some might call the ultimate creeper protection. Blast Proof walling can withstand almost all ICBM missiles (Except bedrock breaking ones) and as an added bonus are also completely wither resistant!",
+        "p6": "To craft Blast Proof Walling you have to compress Raw Blast Proof Walling in a #link:compressor# using coal",
+        
+        "h4": "Blast Proof Glass",
+        "p7": "Blast Proof Glass, is as the name of the block suggests, a glass version of the Blast Proof Walling. What´s a blast proof base without some windows right? It offers the same amount of resistance as the Blast Proof Walling",
+        "p8": "To craft Blast Proof Glass you simply surround a block of glass with Blast Proof Walling in a crafting table",
+        
+        "h5": "Blast Proof Trapdoor",
+        "p9": "The Blast Proof Trapdoor is a blast proof version of the normal trapdoor. It can tolerate any explosion. But it should be noted that if the block the trap door is attached to is destroyed, the trapdoor will also be destroyed.",
+    }
+}

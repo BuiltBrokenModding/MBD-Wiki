@@ -3,9 +3,9 @@
     {
         "outputPath":"mbd",
         "title":"Military Base Decor Wiki",
-        "sub_title":"Base Decorating Redefined!"    
-    },
+        "sub_title":"Base decorating, Redefined"
+    },   
     "images":"imgs",
-    "content":"content",
-    "categories":"content/categories.json"
+    "categories":"content/categories.json",
+    "theme":"./Wiki-Template/theme.json"
 }
