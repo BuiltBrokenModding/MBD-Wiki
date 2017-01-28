@@ -1,11 +1,19 @@
 {
     "vars":
     {
-        "outputPath":"mbd",
+        "outputPath":"pages/mbd/wiki/",
         "title":"Military Base Decor Wiki",
-        "sub_title":"Base decorating, Redefined"
+        "sub_title":"Base decorating, Redefined",
+        "wikiGithub":"https://github.com/BuiltBrokenModding/MBD-Wiki"
     },   
-    "images":"imgs",
-    "categories":"content/categories.json",
-    "theme":"./Wiki-Template/theme.json"
+    "images":"./imgs",
+    "pages":"./pages",
+    "theme":"./Wiki-Template/theme.json",
+    "categories":
+    {
+        "blastcraft":
+        {
+            "text":"BlastCraft"
+        }
+    }
 }

@@ -1,7 +1,0 @@
-{
-    "categories":
-    {
-        "modules":"./categories/modules.json",
-        "blastcraft":"./categories/blastcraft.json"
-    }
-}
