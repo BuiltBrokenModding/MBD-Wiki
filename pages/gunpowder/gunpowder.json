@@ -1,0 +1,13 @@
+{
+    "pageName":"Name",
+    "type":"ignore",
+    "category":"cat",
+    "replaceKeys":
+    {
+        "key":"text"
+    },
+    "content":
+    {
+        "p1": "text"
+    }
+}
