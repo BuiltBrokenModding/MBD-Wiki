@@ -1,13 +1,23 @@
 {
-    "pageName":"Name",
-    "type":"ignore",
-    "category":"cat",
+    "pageName":"Vanilla Module",
+    "type":"page",
+    "category":"Modules",
     "replaceKeys":
     {
-        "key":"text"
+        "vanillaModule":"vanilla module"
     },
     "content":
     {
-        "p1": "text"
+        "p1": "The vanilla module houses content, that doesen´t directly fit into a specific time period, but still fits into a vanilla Minecraft setting.",
+        "h1":
+        {  
+            "link":"vanillablocks.json",
+            "text":"Blocks"
+        },
+        "h2":
+        {  
+            "link":"vanillaitems.json",
+            "text":"Items"
+        }
     }
 }
