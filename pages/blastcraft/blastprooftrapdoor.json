@@ -1,0 +1,17 @@
+{
+    "pageName":"Blast Proof Trapdoor",
+    "type":"content",
+    "category":"blastcraft",
+    "category_display_name":"Blast Proof Trapdoor",
+    "category_display_order":"after:blastproofglass",
+    "replaceKeys":
+    {
+        "blastProofTrapdoor":"blast proof trapdoor"
+    },
+    "content":
+    {
+        "h1": "Blast Proof Trapdoor",
+        "p1": "The Blast Proof Trapdoor is a blast proof version of the normal trapdoor. It can tolerate any explosion. But it should be noted that if the block the trap door is attached to is destroyed, the trapdoor will also be destroyed.",
+        "p2": "To craft it you just craft a trapdoor like you normally would, just with blastproof walling instead of wood or iron."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "pageName":"Raw Blast Proof Walling",
+    "type":"content",
+    "category":"blastcraft",
+    "category_display_name":"Raw Blast Proof Walling",
+    "category_display_order":"after:hardenedbrick",
+    "replaceKeys":
+    {
+        "rawBlastProofWalling":"raw blast proof walling"
+    },
+    "content":
+    {
+        "h1": "Raw Blast Proof Walling",
+        "p1": "Raw Blast Proof Walling, is also rather weak, and is the final step to creating blast proof walling. It offers no improvement over hardened brick, sporting the same resistance as obsidian once again.",
+        "p2": "To craft Raw Blast Proof Walling you need Hardened Brick and Obsididan in a crafting table"
+    }
+}

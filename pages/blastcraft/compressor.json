@@ -1,6 +1,9 @@
 {
     "pageName":"Blast Compressor",
     "type":"content",
+    "category":"blastcraft",
+    "category_display_name":"Blast Compressor",
+    "category-display-order":"after:carbonplatedwalling",
     "replaceKeys":
     {
         "compressor":"blast compressor"
@@ -8,6 +11,6 @@
     "content":
     {
         "h1": "Blast Compressor",
-        "p1": "The Blast Compressor, is a machine that allows you to compress #link:blastBlocks# into Blast Proof Walling It requires coal to function.",
+        "p1": "The Blast Compressor, is a machine that allows you to compress #link:blastBlocks# into Blast Proof Walling It requires coal to function."
     }
 }

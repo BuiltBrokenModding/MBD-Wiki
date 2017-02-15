@@ -1,0 +1,17 @@
+{
+    "pageName":"Carbon Plated Walling",
+    "type":"content",
+    "category":"blastcraft",
+    "category_display_name":"Carbon Plated Walling",
+    "category_display_order":"after:blastprooftrapdoor",
+    "replaceKeys":
+    {
+        "carbonPlatedWalling":"carbon plated walling"
+    },
+    "content":
+    {
+        "h1": "Carbon Plated Walling",
+        "p1": "The latest and greates in blast proof blocks, the carbon plated walling is even stronger than blast proof blocks and offer further protection from even the most dangerous missiles! Your enemies will fear your protection more than they fear your missiles with these!",
+        "p2": "To craft Carbon Plated Walling you have to combine some #link:blastProofWalling# with some coal in a crafting table."
+    }
+}

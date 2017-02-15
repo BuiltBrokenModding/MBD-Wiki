@@ -1,19 +1,57 @@
-{
+{       
+    "images":"./imgs",
+    "pages":"./pages",
+    "theme":"./Wiki-Template/theme.json",
     "vars":
     {
         "outputPath":"pages/mbd/wiki/",
         "title":"Military Base Decor Wiki",
-        "sub_title":"Base decorating, Redefined",
+        "sub_title":"Base Decorating, Redefined",
         "wikiGithub":"https://github.com/BuiltBrokenModding/MBD-Wiki"
-    },   
-    "images":"./imgs",
-    "pages":"./pages",
-    "theme":"./Wiki-Template/theme.json",
+    },
     "categories":
     {
+        "modules":
+        {
+            "text":"Modules",
+            "page":"modules",
+            "index": 0
+        },
+        "concrete":
+        {
+            "text":"Concrete",
+            "page":"concrete",
+            "index": 1
+        },
+        "defensive-blocks":
+        {
+            "text":"Defensive Blocks",
+            "page":"defense-blocks",
+            "index": 2
+        },
+        "utility-blocks":
+        {
+            "text":"Utility Blocks",
+            "page":"utility-blocks",
+            "index": 3
+        },
+        "tools":
+        {
+            "text":"Tools",
+            "page":"tools",
+            "index": 4
+        },
+        "crafting":
+        {
+            "text":"Crafting",
+            "page":"crafting",
+            "index": 5
+        },
         "blastcraft":
         {
-            "text":"BlastCraft"
+            "text":"Blastcraft",
+            "page":"blastcraft",
+            "index": 6
         }
     }
 }

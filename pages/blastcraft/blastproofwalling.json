@@ -1,0 +1,17 @@
+{
+    "pageName":"Blast Proof Walling",
+    "type":"content",
+    "category":"blastcraft",
+    "category_display_name":"Blast Proof Walling",
+    "category_display_order":"after:rawblastproofwalling",
+    "replaceKeys":
+    {
+        "blastProofWalling":"blast proof walling"
+    },
+    "content":
+    {
+        "h1": "Blast Proof Walling",
+        "p1": "Blast Proof Walling, Is what some might call the ultimate creeper protection. Blast Proof walling can withstand almost all ICBM missiles (Except bedrock breaking ones) and as an added bonus are also completely wither resistant!",
+        "p2": "To craft Blast Proof Walling you have to compress Raw Blast Proof Walling in a #link:compressor# using coal"
+    }
+}

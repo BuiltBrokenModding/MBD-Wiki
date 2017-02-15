@@ -1,0 +1,17 @@
+{
+    "pageName":"Blast Proof Glass",
+    "type":"content",
+    "category":"blastcraft",
+    "category_display_name":"Blast Proof Glass",
+    "category_display_order":"after:blastproofwalling",
+    "replaceKeys":
+    {
+        "blastProofGlass":"blast proof glass"
+    },
+    "content":
+    {
+        "h1": "Blast Proof Glass",
+        "p1": "Blast Proof Glass, is as the name of the block suggests, a glass version of the Blast Proof Walling. What´s a blast proof base without some windows right? It offers the same amount of resistance as the Blast Proof Walling",
+        "p2": "To craft Blast Proof Glass you simply surround a block of glass with Blast Proof Walling in a crafting table"
+    }
+}

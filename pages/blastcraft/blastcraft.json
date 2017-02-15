@@ -7,13 +7,40 @@
     },
     "content":
     {
-        "p1": "Blastcraft is a small module that adds content from the old mod with the same name, it adds several means of blastproofing your base and serves as another way to protect your base from ICBM missiles.",
-        "h1":
-        {  
-            "link":"bcblocks.json",
-            "text":"Blocks"
+        "h1": "Info",
+        "p1": "Blastcraft is a small module that adds content from an old mod with the same name, it adds several means of blastproofing your base and serves as another way to protect your base from ICBM missiles.",
+        "h2": "Content",
+        "h3":
+        {
+            "link":"hardenedbrick.json",
+            "text":"Hardened Brick"
         },
-        "h2":
+        "h4":
+        {
+          "link":"rawblastproofwalling.json",
+          "text":"Raw Blast Proof Walling"
+        },
+        "h5":
+        {
+          "link":"blastproofwalling.json",
+          "text":"Blast Proof Walling"
+        },
+        "h6":
+        {
+            "link":"blastproofglass.json",
+            "text":"Blast Proof Glass"
+        },
+        "h7":
+        {
+            "link":"blastprooftrapdoor.json",
+            "text":"Blast Proof Trapdoor"
+        },
+        "h8":
+        {
+            "link":"carbonplatedwalling.json",
+            "text":"Carbon Plated Walling"
+        },
+        "h9":
         {  
             "link":"compressor.json",
             "text":"Blast Compressor"

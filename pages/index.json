@@ -1,42 +1,13 @@
 {
-    "pageName":"Modules",
-    "type":"category",
+    "pageName":"Military Base Decor Wiki",
+    "type":"mainPage",
     "replaceKeys":
     {
-        "module":"module"
+        "mbd":"Military Base Decor"
     },
     "content":
     {
-        "p1": "Military Base Decor has content set to different eras that are spread out in different modules that can be disabled as you so choose, these are the currently available modules:",
-        "h1":
-        {  
-            "link":"vanilla.json",
-            "text":"Vanilla Module"
-        },
-        "h2":
-        {  
-            "link":"gunpowder.json",
-            "text":"Gunpowder Era Module (Civil War)"
-        },
-        "h3":
-        {  
-            "link":"worldwar1.json",
-            "text":"World War 1 Module"
-        },
-        "h4":
-        {  
-            "link":"worldwar2.json",
-            "text":"World War 2 Module"
-        },
-        "h5":
-        {  
-            "link":"coldwar.json",
-            "text":"Cold War Module"
-        },
-        "h6":
-        {
-            "link":"future.json",
-            "text":"Future Module"
-        }
+        "h1": "About",
+        "p1": "Military Base Decor, aims to provide the ultimate in protection, be it protection from simple creepers to the latest in Inter Continental Ballistic Missiles, Military Base Decor has got you covered!"
     }
 }

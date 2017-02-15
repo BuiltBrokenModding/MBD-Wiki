@@ -1,0 +1,16 @@
+{
+    "pageName":"Hardened Brick",
+    "type":"content",
+    "category":"blastcraft",
+    "category_display_name":"Hardened Brick",
+    "replaceKeys":
+    {
+        "hardenedBrick":"hardened brick"
+    },
+    "content":
+    {
+        "h1": "Hardened Brick",
+        "p1": "Hardened Brick, is used to create Raw Blast Proof Walling. It is a rather weak block with the same resistance as an obsidian block.",
+        "p2": "It is made using obsidian and bricks in a normal crafting table"
+    }
+}
