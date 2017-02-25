@@ -1,0 +1,49 @@
+{
+    "pageName":"Modules",
+    "type":"category",
+    "replaceKeys":
+    {
+        "modules":"modules"
+    },
+    "content":
+    {
+        "h1": "Info",
+        "p1": "Military Base Decor is divided into the modules loosely based on wars trough the ages, the different modules can all be disabled and enabled to your choosing using the config, the modules are as follows:",
+        "h2": "Content",
+        "h3":
+        {
+            "link":"vanilla.json",
+            "text":"Vanilla Module"
+        },
+        "h4":
+        {
+          "link":"gunpowder.json",
+          "text":"Gunpowder Module (Civil War)"
+        },
+        "h5":
+        {
+          "link":"worldwar1.json",
+          "text":"World War 1 Module"
+        },
+        "h6":
+        {
+            "link":"worldwar2.json",
+            "text":"World War 2 Module"
+        },
+        "h7":
+        {
+            "link":"coldwar.json",
+            "text":"Cold War Module"
+        },
+        "h8":
+        {
+            "link":"future.json",
+            "text":"Future Module"
+        },
+        "h9":
+        {  
+            "link":"blastcraft.json",
+            "text":"Blastcraft Module"
+        }
+    }
+}

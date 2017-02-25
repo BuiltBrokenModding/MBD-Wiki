@@ -1,0 +1,92 @@
+{
+    "pageName":"Vanilla Module",
+    "type":"content",
+    "category":"modules",
+    "category_display_name":"Vanilla Module",
+    "replaceKeys":
+    {
+        "vanillaModule":"vanilla module"
+    },
+    "content":
+    {
+        "h1": "Vanilla Module",
+        "p1": "The vanilla module contains simple blocks that could easily fit in a general minecraft setting. With basic blocks you can use to reinforce and style your base with!",
+        "h2": "Content:",
+        "h3": "Blocks:",
+        "h4":
+        {
+            "link":"reinforcedwoodencasing.json",
+            "text":"Reinforced Wooden Casing"
+        },
+        "h5":
+        {
+            "link":"reinforceddirt.json",
+            "text":"Reinforced Dirt"
+        },
+        "h6":
+        {
+            "link":"reinforcedgrass.json",
+            "text":"Reinforced Grass"
+        },
+        "h7":
+        {
+            "link":"reinforcedsand.json",
+            "text":"Reinforced Sand"
+        },
+        "h8":
+        {
+            "link":"reinforcedmetalcasing",
+            "text":"Reinforced Metal Casing"
+        },
+        "h9":
+        {
+            "link":"reinforcedcobble.json",
+            "text":"Reinforced Cobblestone"
+        },
+        "h10":
+        {
+            "link":"reinforcedstone.json",
+            "text":"Reinforced Stone"
+        },
+        "h11":
+        {
+            "link":"reinforcedbricks.json",
+            "text":"Reinforced Stone Bricks"
+        },
+        "h12":
+        {
+            "link":"reinforcediron.json",
+            "text":"Reinforced Iron Block"
+        },
+        "h13":
+        {
+            "link":"reinforcedgold.json",
+            "text":"Reinforced Gold Block"
+        },
+        "h14":
+        {
+            "link":"reinforcedglass.json",
+            "text":"Reinforced Glass"
+        },
+        "h15":
+        {
+            "link":"reinforcedbutton.json",
+            "text":"Reinforced Button"
+        },
+        "h16":
+        {
+            "link":"basiccamo.json",
+            "text":"Basic Camo Block"
+        },
+        "h17":
+        {
+            "link":"perviousconcrete.json",
+            "text":"Pervious Concrete"
+        },
+        "h18":
+        {
+            "link":"glassconcrete",
+            "text":"Glass Concrete"
+        }
+    }
+}

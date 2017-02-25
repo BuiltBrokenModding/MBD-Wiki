@@ -1,0 +1,16 @@
+{
+    "pageName":"Reinforced Wooden Casing",
+    "type":"content",
+    "category":"defensive-blocks",
+    "category_display_name":"Reinforced Wooden Casing",
+    "replaceKeys":
+    {
+        "reinforcedWoodenCasing":"reinforced wooden casing"
+    },
+    "content":
+    {
+        "h1": "Reinforced Wooden Casing",
+        "p1": "The reinforced wooden casing is a block introduced by the vanillaModule that is used to reinforce dirt, grass and sand blocks, to withstand creeper explosions.",
+        "p2": "To craft one simply fill the outer edge of a crafting table with sticks."
+    }
+}
